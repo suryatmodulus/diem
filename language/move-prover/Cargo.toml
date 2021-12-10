@@ -23,7 +23,7 @@ bytecode-source-map = { path = "../compiler/bytecode-source-map" }
 move-ir-types = { path = "../move-ir/types" }
 
 # external dependencies
-async-trait = "0.1.42"
+async-trait = "0.1.52"
 anyhow = "1.0.38"
 clap = "2.33.3"
 codespan = "0.8.0"

@@ -8,7 +8,7 @@ publish = false
 edition = "2018"
 
 [dependencies]
-async-trait = "0.1.42"
+async-trait = "0.1.52"
 bytecode = { path = "../bytecode" }
 move-model = { path = "../../move-model" }
 vm = { path = "../../vm" }
