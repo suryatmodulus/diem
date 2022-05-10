@@ -39,7 +39,7 @@ move-resource-viewer = { git = "https://github.com/diem/move", rev = "98ed299a7e
 
 [dev-dependencies]
 rand = "0.8.3"
-reqwest = { version = "0.11.2", features = ["blocking", "json"], default_features = false }
+reqwest = { version = "0.11.4", features = ["blocking", "json"], default_features = false }
 
 mempool-notifications = { path = "../state-sync/inter-component/mempool-notifications" }
 diemdb = { path = "../storage/diemdb", features = ["fuzzing"] }
