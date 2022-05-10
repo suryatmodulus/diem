@@ -47,7 +47,7 @@ rusty-fork = { version = "0.3.0", features = ["timeout", "wait-timeout"] }
 serde = { version = "1.0.130", features = ["alloc", "derive", "rc", "serde_derive", "std"] }
 serde_json = { version = "1.0.73", features = ["indexmap", "preserve_order", "std"] }
 standback = { version = "0.2.15", default-features = false, features = ["std"] }
-subtle = { version = "2.4.0", default-features = false, features = ["std"] }
+subtle = { version = "2.4.1", default-features = false, features = ["std"] }
 tiny-keccak = { version = "2.0.2", features = ["sha3"] }
 tokio = { version = "1.9.0", features = ["bytes", "fs", "full", "io-std", "io-util", "libc", "macros", "memchr", "mio", "net", "num_cpus", "once_cell", "parking_lot", "process", "rt", "rt-multi-thread", "signal", "signal-hook-registry", "sync", "test-util", "time", "tokio-macros", "winapi"] }
 tokio-util = { version = "0.6.7", features = ["codec", "compat", "futures-io", "io"] }
@@ -95,7 +95,7 @@ rusty-fork = { version = "0.3.0", features = ["timeout", "wait-timeout"] }
 serde = { version = "1.0.130", features = ["alloc", "derive", "rc", "serde_derive", "std"] }
 serde_json = { version = "1.0.73", features = ["indexmap", "preserve_order", "std"] }
 standback = { version = "0.2.15", default-features = false, features = ["std"] }
-subtle = { version = "2.4.0", default-features = false, features = ["std"] }
+subtle = { version = "2.4.1", default-features = false, features = ["std"] }
 syn = { version = "1.0.74", features = ["clone-impls", "derive", "extra-traits", "full", "parsing", "printing", "proc-macro", "quote", "visit", "visit-mut"] }
 tiny-keccak = { version = "2.0.2", features = ["sha3"] }
 tokio = { version = "1.9.0", features = ["bytes", "fs", "full", "io-std", "io-util", "libc", "macros", "memchr", "mio", "net", "num_cpus", "once_cell", "parking_lot", "process", "rt", "rt-multi-thread", "signal", "signal-hook-registry", "sync", "test-util", "time", "tokio-macros", "winapi"] }
