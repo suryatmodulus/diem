@@ -11,7 +11,7 @@ edition = "2018"
 
 [dependencies]
 anyhow = { version = "1.0.52", features = ["backtrace"] }
-async-trait = "0.1.42"
+async-trait = "0.1.56"
 base64 = "0.13.0"
 futures = "0.3.12"
 hyper = { version = "0.14.4", features = ["full"] }
