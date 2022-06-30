@@ -25,7 +25,7 @@ short-hex-str = { path = "../../crates/short-hex-str" }
 
 [dev-dependencies]
 proptest = "1.0.0"
-serde_json = "1.0.64"
+serde_json = "1.0.82"
 
 diem-types = { path = "../../types", features = ["fuzzing"] }
 

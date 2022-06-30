@@ -40,7 +40,7 @@ mempool-notifications = { path = "../state-sync/inter-component/mempool-notifica
 network = { path = "../network" }
 rand = "0.8.3"
 netcore = { path = "../network/netcore" }
-serde_json = "1.0.64"
+serde_json = "1.0.82"
 short-hex-str = { path = "../crates/short-hex-str" }
 storage-interface = { path = "../storage/storage-interface" }
 vm-validator = { path = "../vm-validator" }
