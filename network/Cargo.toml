@@ -53,7 +53,7 @@ num-variants = { path = "../crates/num-variants" }
 short-hex-str = { path = "../crates/short-hex-str" }
 
 [dev-dependencies]
-criterion = "0.3.4"
+criterion = "0.3.6"
 diem-proptest-helpers = { path = "../crates/diem-proptest-helpers" }
 diem-types = { path = "../types", features = ["fuzzing"] }
 maplit = "1.0.2"
