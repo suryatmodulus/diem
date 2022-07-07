@@ -32,7 +32,7 @@ serde_json = "1.0.64"
 thiserror = "1.0.24"
 
 [dev-dependencies]
-criterion = "0.3.4"
+criterion = "0.3.6"
 tempfile = "3.2.0"
 proptest = "1.0.0"
 

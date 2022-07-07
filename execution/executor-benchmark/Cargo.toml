@@ -11,7 +11,7 @@ edition = "2018"
 
 [dependencies]
 bcs = "0.1.2"
-criterion = "0.3.4"
+criterion = "0.3.6"
 chrono = "0.4.19"
 indicatif = "0.15.0"
 itertools = { version = "0.10.0", default-features = false }

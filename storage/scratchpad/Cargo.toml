@@ -26,7 +26,7 @@ diem-workspace-hack = { version = "0.1", path = "../../crates/diem-workspace-hac
 
 [dev-dependencies]
 bitvec = "0.19.4"
-criterion = "0.3.4"
+criterion = "0.3.6"
 rand = "0.8.3"
 proptest = "1.0.0"
 
