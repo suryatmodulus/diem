@@ -10,7 +10,7 @@ publish = false
 edition = "2018"
 
 [dependencies]
-async-trait = "0.1.42"
+async-trait = "0.1.57"
 thiserror = "1.0.24"
 
 channel = { path = "../../../crates/channel" }
